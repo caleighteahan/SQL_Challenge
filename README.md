@@ -1,1 +1,2 @@
 # SQL_Challenge
+For this project, I designed tables to hold data from multiple CSV files, imported the files into a SQL database, and then answered a number of questions about the data. I imported six different CSV files into a database pertaining to different aspects of employees at a fictional company. Through data modeling and anlysis, I was able to understand key insight on employees employeed from the 1980s and 1990s. 
